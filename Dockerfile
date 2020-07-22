@@ -16,7 +16,9 @@ RUN git clone https://github.com/MasonRiley/mc-docker.git
 
 RUN ls
 
-RUN cd mc-docker/server
+RUN cd mc-docker
+
+RUN cd server
 
 RUN ls -la
 
