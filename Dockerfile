@@ -27,6 +27,8 @@ WORKDIR /minecraft/mc-docker/server
 
 RUN ls
 
-RUN screen -d -m java -Xms1G -Xmx1G -jar server.jar nogui
+#RUN screen -d -m java -Xms1G -Xmx1G -jar server.jar nogui
+
+ENTRYPOINT [ "java", "-Xms1G", "-Xmx1G", "-jar", "server.jar", "nogui" ]
 
 #RUN java -Xms1G -Xmx1G -jar server.jar nogui
