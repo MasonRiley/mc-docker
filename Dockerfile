@@ -30,9 +30,9 @@ RUN touch run.sh
 
 RUN printf "#!/bin/bash\njava -Xms1G -Xmx1G -jar server.jar nogui" > /run.sh
 
-ENTRYPOINT ["/run.sh"]]
-
 RUN chmod 755 /run.sh
+
+ENTRYPOINT ["/run.sh"]]
 
 # RUN ls
 
