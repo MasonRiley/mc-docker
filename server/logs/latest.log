@@ -1,209 +1,151 @@
-[09:44:18] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[09:44:19] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[09:44:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09:44:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09:44:19] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[09:44:19] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09:44:19] [main/INFO]: Reloading ResourceManager: Default
-[09:44:19] [Worker-Main-12/INFO]: Loaded 7 recipes
-[09:44:19] [Worker-Main-12/INFO]: Loaded 927 advancements
-[09:44:20] [Server thread/INFO]: Starting minecraft server version 1.16.1
-[09:44:20] [Server thread/INFO]: Loading properties
-[09:44:20] [Server thread/INFO]: Default game type: SURVIVAL
-[09:44:20] [Server thread/INFO]: Generating keypair
-[09:44:21] [Server thread/INFO]: Starting Minecraft server on *:25565
-[09:44:21] [Server thread/INFO]: Using default channel type
-[09:44:21] [Server thread/INFO]: Preparing level "world"
-[09:44:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[09:44:25] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[09:44:25] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[09:44:26] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[09:44:26] [Worker-Main-10/INFO]: Preparing spawn area: 1%
-[09:44:27] [Worker-Main-9/INFO]: Preparing spawn area: 3%
-[09:44:27] [Worker-Main-9/INFO]: Preparing spawn area: 4%
-[09:44:28] [Worker-Main-13/INFO]: Preparing spawn area: 6%
-[09:44:28] [Worker-Main-13/INFO]: Preparing spawn area: 6%
-[09:44:29] [Worker-Main-9/INFO]: Preparing spawn area: 9%
-[09:44:29] [Worker-Main-14/INFO]: Preparing spawn area: 10%
-[09:44:30] [Worker-Main-9/INFO]: Preparing spawn area: 11%
-[09:44:30] [Worker-Main-13/INFO]: Preparing spawn area: 12%
-[09:44:31] [Worker-Main-9/INFO]: Preparing spawn area: 13%
-[09:44:31] [Worker-Main-11/INFO]: Preparing spawn area: 15%
-[09:44:32] [Worker-Main-14/INFO]: Preparing spawn area: 17%
-[09:44:32] [Worker-Main-13/INFO]: Preparing spawn area: 18%
-[09:44:33] [Worker-Main-13/INFO]: Preparing spawn area: 19%
-[09:44:33] [Worker-Main-14/INFO]: Preparing spawn area: 20%
-[09:44:34] [Worker-Main-12/INFO]: Preparing spawn area: 22%
-[09:44:34] [Worker-Main-13/INFO]: Preparing spawn area: 23%
-[09:44:35] [Worker-Main-11/INFO]: Preparing spawn area: 24%
-[09:44:35] [Worker-Main-9/INFO]: Preparing spawn area: 25%
-[09:44:36] [Worker-Main-9/INFO]: Preparing spawn area: 26%
-[09:44:36] [Worker-Main-10/INFO]: Preparing spawn area: 29%
-[09:44:37] [Worker-Main-14/INFO]: Preparing spawn area: 30%
-[09:44:37] [Worker-Main-14/INFO]: Preparing spawn area: 31%
-[09:44:38] [Worker-Main-11/INFO]: Preparing spawn area: 33%
-[09:44:38] [Worker-Main-11/INFO]: Preparing spawn area: 34%
-[09:44:39] [Worker-Main-10/INFO]: Preparing spawn area: 36%
-[09:44:39] [Worker-Main-11/INFO]: Preparing spawn area: 38%
-[09:44:40] [Worker-Main-8/INFO]: Preparing spawn area: 40%
-[09:44:40] [Worker-Main-14/INFO]: Preparing spawn area: 42%
-[09:44:41] [Worker-Main-13/INFO]: Preparing spawn area: 43%
-[09:44:41] [Worker-Main-8/INFO]: Preparing spawn area: 45%
-[09:44:42] [Worker-Main-11/INFO]: Preparing spawn area: 46%
-[09:44:42] [Worker-Main-8/INFO]: Preparing spawn area: 48%
-[09:44:43] [Worker-Main-10/INFO]: Preparing spawn area: 50%
-[09:44:43] [Worker-Main-12/INFO]: Preparing spawn area: 51%
-[09:44:44] [Worker-Main-13/INFO]: Preparing spawn area: 53%
-[09:44:44] [Worker-Main-11/INFO]: Preparing spawn area: 55%
-[09:44:45] [Worker-Main-8/INFO]: Preparing spawn area: 56%
-[09:44:45] [Worker-Main-11/INFO]: Preparing spawn area: 57%
-[09:44:46] [Worker-Main-9/INFO]: Preparing spawn area: 58%
-[09:44:46] [Worker-Main-10/INFO]: Preparing spawn area: 60%
-[09:44:47] [Worker-Main-11/INFO]: Preparing spawn area: 62%
-[09:44:47] [Worker-Main-10/INFO]: Preparing spawn area: 64%
-[09:44:48] [Worker-Main-8/INFO]: Preparing spawn area: 66%
-[09:44:48] [Worker-Main-9/INFO]: Preparing spawn area: 68%
-[09:44:49] [Worker-Main-10/INFO]: Preparing spawn area: 69%
-[09:44:49] [Worker-Main-11/INFO]: Preparing spawn area: 71%
-[09:44:50] [Worker-Main-9/INFO]: Preparing spawn area: 72%
-[09:44:50] [Worker-Main-10/INFO]: Preparing spawn area: 74%
-[09:44:51] [Worker-Main-13/INFO]: Preparing spawn area: 76%
-[09:44:51] [Worker-Main-13/INFO]: Preparing spawn area: 78%
-[09:44:52] [Worker-Main-9/INFO]: Preparing spawn area: 80%
-[09:44:52] [Worker-Main-10/INFO]: Preparing spawn area: 81%
-[09:44:53] [Worker-Main-12/INFO]: Preparing spawn area: 83%
-[09:44:53] [Worker-Main-13/INFO]: Preparing spawn area: 84%
-[09:44:54] [Worker-Main-13/INFO]: Preparing spawn area: 86%
-[09:44:54] [Worker-Main-9/INFO]: Preparing spawn area: 88%
-[09:44:55] [Worker-Main-12/INFO]: Preparing spawn area: 89%
-[09:44:55] [Worker-Main-14/INFO]: Preparing spawn area: 90%
-[09:44:56] [Worker-Main-9/INFO]: Preparing spawn area: 93%
-[09:44:56] [Worker-Main-14/INFO]: Preparing spawn area: 95%
-[09:44:57] [Worker-Main-12/INFO]: Preparing spawn area: 97%
-[09:44:57] [Worker-Main-10/INFO]: Preparing spawn area: 99%
-[09:44:58] [Server thread/INFO]: Time elapsed: 32707 ms
-[09:44:58] [Server thread/INFO]: Done (36.484s)! For help, type "help"
-[09:46:18] [User Authenticator #1/INFO]: UUID of player _Kodin_ is 21f06bfa-9293-44f2-9f3d-1f745bbbf17e
-[09:46:18] [Server thread/INFO]: _Kodin_[/192.168.1.2:58418] logged in with entity id 219 at (17.5, 69.0, 170.5)
-[09:46:18] [Server thread/INFO]: _Kodin_ joined the game
-[09:46:31] [Server thread/INFO]: _Kodin_ lost connection: Disconnected
-[09:46:31] [Server thread/INFO]: _Kodin_ left the game
-[09:51:31] [User Authenticator #2/INFO]: UUID of player _Kodin_ is 21f06bfa-9293-44f2-9f3d-1f745bbbf17e
-[09:51:31] [Server thread/INFO]: _Kodin_[/192.168.1.2:58454] logged in with entity id 346 at (18.886711636702806, 74.0, 160.99466655247693)
-[09:51:31] [Server thread/INFO]: _Kodin_ joined the game
-[09:51:37] [User Authenticator #3/INFO]: UUID of player _Mynerva_ is a1059339-588c-4401-856b-f4b3ae47dd53
-[09:51:37] [Server thread/INFO]: _Mynerva_[/192.168.1.15:51798] logged in with entity id 347 at (14.5, 67.0, 154.5)
-[09:51:37] [Server thread/INFO]: _Mynerva_ joined the game
-[09:57:28] [Server thread/INFO]: _Mynerva_ has made the advancement [Monster Hunter]
-[09:57:36] [Server thread/INFO]: _Kodin_ was slain by Zombie
-[10:02:41] [Server thread/INFO]: _Kodin_ was slain by Spider
-[10:02:45] [Server thread/INFO]: _Mynerva_ was slain by Spider
-[10:04:36] [Server thread/INFO]: _Kodin_ has made the advancement [Monster Hunter]
-[10:16:06] [Server thread/INFO]: _Kodin_ has made the advancement [Stone Age]
-[10:17:42] [Server thread/INFO]: _Mynerva_ has made the advancement [Stone Age]
-[10:18:35] [Server thread/INFO]: _Mynerva_ was blown up by Creeper
-[10:19:35] [Server thread/INFO]: _Mynerva_ was shot by Skeleton
-[10:22:32] [Server thread/INFO]: _Kodin_ was slain by Enderman
-[10:24:10] [Server thread/INFO]: _Mynerva_ was blown up by Creeper
-[10:25:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2692ms or 53 ticks behind
-[10:29:52] [Server thread/INFO]: Seed: [6871087713317803131]
-[10:31:34] [Server thread/INFO]: Made _Kodin_ a server operator
-[10:31:40] [Server thread/INFO]: Made _Mynerva_ a server operator
-[10:32:29] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[10:32:29] [Server thread/INFO]: <--[HERE]
-[10:32:55] [Server thread/INFO]: Invalid chat component: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 2 path $[0]
-[10:32:55] [Server thread/INFO]: ...dd Ballas [displayName]<--[HERE]
-[10:33:16] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
-[10:33:16] [Server thread/INFO]: /team add <Ballas> [displayName]<--[HERE]
-[10:33:55] [Server thread/INFO]: Created team [Ballas]
-[10:34:11] [Server thread/INFO]: Added _Kodin_ to team [Ballas]
-[10:34:55] [Server thread/INFO]: Added _Mynerva_ to team [Ballas]
-[10:36:57] [Server thread/INFO]: [_Kodin_: Set spawn point to 21, 76, 185 in minecraft:overworld for _Kodin_]
-[10:37:02] [Server thread/INFO]: [_Mynerva_: Set spawn point to 19, 74, 186 in minecraft:overworld for _Mynerva_]
-[10:38:48] [Server thread/INFO]: _Kodin_ was slain by Zombie
-[10:39:05] [Server thread/INFO]: _Mynerva_ was slain by Zombie
-[10:44:02] [Server thread/INFO]: _Kodin_ was slain by Spider
-[10:44:03] [Server thread/INFO]: _Mynerva_ was slain by Zombie
-[10:48:56] [Server thread/INFO]: _Mynerva_ was shot by Skeleton
-[10:49:02] [Server thread/WARN]: _Mynerva_ moved too quickly! 24.199999988079078,10.099999999999994,-1.7869797893085035
-[10:51:21] [Server thread/INFO]: _Kodin_ was shot by Skeleton
-[10:56:55] [Server thread/INFO]: [_Kodin_: Set spawn point to 63, 64, 280 in minecraft:overworld for _Kodin_]
-[10:57:01] [Server thread/INFO]: [_Mynerva_: Set spawn point to 62, 63, 278 in minecraft:overworld for _Mynerva_]
-[11:02:55] [Server thread/INFO]: _Kodin_ has made the advancement [Getting an Upgrade]
-[11:03:17] [Server thread/INFO]: _Mynerva_ has made the advancement [Getting an Upgrade]
-[11:17:19] [Server thread/INFO]: [_Kodin_: Set spawn point to 63, 64, 357 in minecraft:overworld for _Kodin_]
-[11:17:27] [Server thread/INFO]: [_Mynerva_: Set spawn point to 62, 65, 355 in minecraft:overworld for _Mynerva_]
-[11:17:33] [Server thread/INFO]: [_Kodin_: Set spawn point to 61, 73, 329 in minecraft:overworld for _Kodin_]
-[11:18:46] [Server thread/INFO]: _Kodin_ was shot by Skeleton
-[11:18:52] [Server thread/INFO]: _Mynerva_ was shot by Skeleton
-[11:59:31] [Server thread/INFO]: _Mynerva_ was shot by Skeleton
-[11:59:42] [Server thread/INFO]: _Kodin_ was shot by Skeleton
-[12:02:48] [Server thread/INFO]: _Mynerva_ hit the ground too hard whilst trying to escape Spider
-[12:02:54] [Server thread/WARN]: _Mynerva_ moved too quickly! 12.859058982909765,-0.9000000000000057,18.40442823680138
-[12:17:06] [Server thread/INFO]: [_Kodin_: Saved the game]
-[12:17:54] [Server thread/INFO]: [_Mynerva_: Set spawn point to 66, 74, 329 in minecraft:overworld for _Mynerva_]
-[12:24:58] [Server thread/INFO]: _Kodin_ was slain by Zombie
-[12:25:02] [Server thread/WARN]: Fetching packet for removed entity bbg['Wooden Sword'/19722, l='ServerLevel[world]', x=65.05, y=73.00, z=333.60]
-[12:25:02] [Server thread/WARN]: Fetching packet for removed entity aos['Experience Orb'/19726, l='ServerLevel[world]', x=67.74, y=73.46, z=332.93]
-[12:25:02] [Server thread/WARN]: Fetching packet for removed entity bbg['Apple'/19696, l='ServerLevel[world]', x=66.58, y=73.00, z=333.56]
-[12:30:58] [Server thread/INFO]: _Mynerva_ was shot by Skeleton
-[12:31:00] [Server thread/WARN]: Fetching packet for removed entity aos['Experience Orb'/20601, l='ServerLevel[world]', x=76.26, y=74.55, z=324.68]
-[13:12:33] [Server thread/INFO]: _Kodin_ was shot by Skeleton
-[13:12:38] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=0, y=0, z=0} fu{x=61, y=75, z=332}
-[13:23:40] [Server thread/INFO]: _Mynerva_ was slain by Spider
-[13:24:49] [Server thread/INFO]: _Mynerva_ was slain by Drowned
-[14:00:40] [Server thread/INFO]: _Kodin_ has made the advancement [Acquire Hardware]
-[14:01:30] [Server thread/INFO]: _Kodin_ has made the advancement [Isn't It Iron Pick]
-[14:24:11] [Server thread/INFO]: _Mynerva_ was blown up by Creeper
-[14:40:55] [Server thread/INFO]: _Mynerva_ was slain by Zombie
-[14:43:29] [Server thread/INFO]: _Mynerva_ was shot by Skeleton
-[14:50:02] [Server thread/WARN]: _Kodin_ moved too quickly! -9.857356593453005,1.0,-2.2997385648169484
-[14:50:16] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=19, y=60, z=274} fu{x=19, y=59, z=274}
-[14:54:45] [Server thread/INFO]: [_Kodin_: Saved the game]
-[14:54:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2428ms or 48 ticks behind
-[14:57:25] [Server thread/INFO]: _Kodin_ has made the advancement [Suit Up]
-[14:57:38] [Server thread/INFO]: _Mynerva_ has made the advancement [Suit Up]
-[15:09:04] [Server thread/INFO]: _Mynerva_ has made the advancement [Isn't It Iron Pick]
-[15:14:33] [Server thread/INFO]: _Mynerva_ fell from a high place
-[15:17:32] [Server thread/INFO]: _Mynerva_ was slain by Spider
-[15:20:05] [Server thread/WARN]: _Kodin_ moved too quickly! -5.221273725056879,1.0,-8.635262368359605
-[15:20:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2425ms or 48 ticks behind
-[15:23:17] [Server thread/INFO]: _Mynerva_ went up in flames
-[15:49:16] [Server thread/INFO]: [_Kodin_: Saved the game]
-[16:10:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2205ms or 44 ticks behind
-[16:13:56] [Server thread/INFO]: _Kodin_ has made the advancement [Not Today, Thank You]
-[16:25:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[16:35:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2131ms or 42 ticks behind
-[16:50:14] [Server thread/WARN]: _Mynerva_ moved too quickly! 9.767147780279288,-2.0,-1.6988222152393746
-[16:50:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2885ms or 57 ticks behind
-[16:51:09] [Server thread/INFO]: _Mynerva_ was killed by Witch using magic
-[16:55:18] [Server thread/WARN]: _Mynerva_ moved too quickly! 9.190622214017822,0.713346453700126,4.0037839866864715
-[16:55:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3449ms or 68 ticks behind
-[16:58:26] [Server thread/INFO]: _Kodin_ was slain by Phantom
-[16:58:38] [Server thread/INFO]: _Mynerva_ has made the advancement [Acquire Hardware]
-[17:00:22] [Server thread/WARN]: _Kodin_ moved too quickly! 9.196038390358012,-1.0,3.853406504717043
-[17:00:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4032ms or 80 ticks behind
-[17:03:12] [Server thread/INFO]: _Kodin_ was slain by Zombie
-[17:03:25] [Server thread/INFO]: _Mynerva_ was slain by Zombie
-[17:05:24] [Server thread/WARN]: _Kodin_ moved too quickly! 3.991314198066732,-2.7698121815251255,8.839176818971112
-[17:05:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2556ms or 51 ticks behind
-[17:07:13] [Server thread/INFO]: _Kodin_ was shot by Skeleton
-[17:10:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2768ms or 55 ticks behind
-[17:17:39] [Server thread/INFO]: _Kodin_ was slain by Spider
-[17:18:25] [Server thread/INFO]: _Mynerva_ was shot by Skeleton
-[17:18:50] [Server thread/INFO]: _Mynerva_ was shot by Skeleton
-[17:20:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2353ms or 47 ticks behind
-[17:20:58] [Server thread/INFO]: _Mynerva_ was shot by Skeleton
-[17:53:10] [Server thread/INFO]: [_Kodin_: Saved the game]
-[17:53:53] [Server thread/INFO]: _Kodin_ lost connection: Disconnected
-[17:53:53] [Server thread/INFO]: _Kodin_ left the game
-[17:53:58] [Server thread/INFO]: _Mynerva_ lost connection: Disconnected
-[17:53:58] [Server thread/INFO]: _Mynerva_ left the game
-[17:54:16] [Server thread/INFO]: Saving the game (this may take a moment!)
-[17:54:17] [Server thread/INFO]: Saved the game
-[17:54:20] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[17:54:20] [Server thread/INFO]: exit<--[HERE]
-[17:54:22] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[17:54:22] [Server thread/INFO]: /exit<--[HERE]
-[17:54:27] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[17:54:27] [Server thread/INFO]: /quit<--[HERE]
+[15:06:26] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:06:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:06:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:06:26] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:06:26] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:06:26] [main/INFO]: Reloading ResourceManager: Default
+[15:06:27] [Worker-Main-12/INFO]: Loaded 7 recipes
+[15:06:27] [Worker-Main-12/INFO]: Loaded 927 advancements
+[15:06:28] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[15:06:28] [Server thread/INFO]: Loading properties
+[15:06:28] [Server thread/INFO]: Default game type: SURVIVAL
+[15:06:28] [Server thread/INFO]: Generating keypair
+[15:06:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:06:28] [Server thread/INFO]: Using default channel type
+[15:06:29] [Server thread/INFO]: Preparing level "world"
+[15:06:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:06:30] [Server thread/INFO]: Preparing spawn area: 0%
+[15:06:30] [Server thread/INFO]: Preparing spawn area: 0%
+[15:06:30] [Server thread/INFO]: Preparing spawn area: 0%
+[15:06:30] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[15:06:31] [Server thread/INFO]: Time elapsed: 1912 ms
+[15:06:31] [Server thread/INFO]: Done (1.975s)! For help, type "help"
+[15:07:28] [User Authenticator #1/INFO]: UUID of player _Kodin_ is 21f06bfa-9293-44f2-9f3d-1f745bbbf17e
+[15:07:28] [Server thread/INFO]: _Kodin_[/192.168.1.2:63983] logged in with entity id 128 at (64.20094935325756, 73.0, 337.71921544322913)
+[15:07:28] [Server thread/INFO]: _Kodin_ joined the game
+[15:07:40] [User Authenticator #2/INFO]: UUID of player _Mynerva_ is a1059339-588c-4401-856b-f4b3ae47dd53
+[15:07:40] [Server thread/INFO]: _Mynerva_[/192.168.1.15:53514] logged in with entity id 300 at (64.7835812160242, 73.0, 333.63381316437074)
+[15:07:40] [Server thread/INFO]: _Mynerva_ joined the game
+[15:09:34] [Server thread/INFO]: _Kodin_ has made the advancement [Sweet Dreams]
+[15:09:34] [Server thread/INFO]: _Mynerva_ has made the advancement [Sweet Dreams]
+[15:12:47] [Server thread/INFO]: _Kodin_ has made the advancement [Take Aim]
+[15:24:05] [Server thread/INFO]: _Kodin_ has made the advancement [Hot Stuff]
+[15:28:11] [Server thread/INFO]: _Mynerva_ has made the advancement [Not Today, Thank You]
+[15:31:28] [Server thread/INFO]: _Kodin_ has made the advancement [Best Friends Forever]
+[15:31:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2137ms or 42 ticks behind
+[15:31:53] [Server thread/INFO]: _Mynerva_ has made the advancement [Best Friends Forever]
+[15:36:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2478ms or 49 ticks behind
+[15:41:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2654ms or 53 ticks behind
+[16:11:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2268ms or 45 ticks behind
+[16:32:18] [Server thread/INFO]: [_Kodin_: Gave 1 [Empty Map] to _Kodin_]
+[16:38:10] [Server thread/INFO]: _Mynerva_ has made the advancement [Fishy Business]
+[17:06:56] [Server thread/INFO]: _Kodin_ was slain by Enderman
+[17:09:08] [Server thread/INFO]: [_Kodin_: Teleported _Kodin_ to _Mynerva_]
+[17:09:08] [Server thread/WARN]: _Kodin_ moved too quickly! 43.13921913872842,-40.0,43.512768120506394
+[17:09:08] [Server thread/WARN]: _Kodin_ moved too quickly! 43.13921913872842,-40.0,43.512768120506394
+[17:16:25] [Server thread/INFO]: _Kodin_ burned to death
+[17:17:24] [Server thread/INFO]: [_Kodin_: Teleported _Kodin_ to _Mynerva_]
+[17:17:24] [Server thread/WARN]: _Kodin_ moved too quickly! 57.33872595041895,-44.2468000194788,44.4376073234817
+[17:17:24] [Server thread/WARN]: _Kodin_ moved too quickly! 57.33872595041895,-44.2468000194788,44.4376073234817
+[17:17:59] [Server thread/INFO]: _Kodin_ burned to death
+[17:18:17] [Server thread/INFO]: [_Kodin_: Teleported _Kodin_ to _Mynerva_]
+[17:18:17] [Server thread/WARN]: _Kodin_ moved too quickly! 50.19999998807907,-41.0000002,34.544505929336935
+[17:19:15] [Server thread/INFO]: [_Mynerva_: Teleported _Mynerva_ to _Kodin_]
+[17:19:15] [Server thread/WARN]: _Mynerva_ moved too quickly! -0.7686686798332687,-12.0,9.70802652727457
+[17:19:15] [Server thread/WARN]: _Mynerva_ moved too quickly! -0.7686686798332687,-12.0,9.70802652727457
+[17:21:32] [Server thread/INFO]: [_Kodin_: Gave 64 [Iron Nugget] to _Kodin_]
+[17:21:39] [Server thread/INFO]: [_Kodin_: Gave 40 [Iron Nugget] to _Kodin_]
+[17:21:51] [Server thread/INFO]: [_Kodin_: Gave 15 [Gold Nugget] to _Kodin_]
+[17:22:02] [Server thread/INFO]: [_Kodin_: Gave 1 [Bucket] to _Kodin_]
+[17:22:34] [Server thread/INFO]: [_Kodin_: Gave 60 [Torch] to _Kodin_]
+[17:23:08] [Server thread/INFO]: [_Kodin_: Gave 1 [Bucket] to _Kodin_]
+[17:23:11] [Server thread/INFO]: [_Kodin_: Gave 1 [Bucket] to _Kodin_]
+[17:23:12] [Server thread/INFO]: [_Kodin_: Gave 1 [Bucket] to _Kodin_]
+[17:23:49] [Server thread/INFO]: [_Kodin_: Gave 64 [Iron Ore] to _Kodin_]
+[17:23:53] [Server thread/INFO]: [_Kodin_: Gave 40 [Iron Ore] to _Kodin_]
+[17:27:36] [Server thread/INFO]: [_Kodin_: Teleported _Kodin_ to _Mynerva_]
+[17:27:36] [Server thread/WARN]: _Kodin_ moved too quickly! -0.35033965843001624,18.0,-20.115992785939397
+[17:27:36] [Server thread/WARN]: _Kodin_ moved too quickly! -0.35033965843001624,18.0,-20.115992785939397
+[17:27:37] [Server thread/WARN]: _Kodin_ moved too quickly! -0.35033965843001624,18.0,-20.115992785939397
+[17:28:41] [Server thread/INFO]: [_Kodin_: Gave 1 [Stone Pickaxe] to _Kodin_]
+[17:30:09] [Server thread/INFO]: [_Kodin_: Teleported _Mynerva_ to 65.5, 73.0, 336.5]
+[17:30:09] [Server thread/WARN]: _Mynerva_ moved too quickly! -57.09752840120629,47.0,-43.64153135676361
+[17:30:09] [Server thread/WARN]: _Mynerva_ moved too quickly! -57.09752840120629,47.0,-43.64153135676361
+[17:30:25] [Server thread/INFO]: [_Kodin_: Teleported _Kodin_ to 65.5, 73.0, 336.5]
+[17:30:25] [Server thread/WARN]: _Kodin_ moved too quickly! -63.70137037702443,49.0,-44.529948840042834
+[17:31:02] [Server thread/INFO]: [_Kodin_: Gave 64 [Glass] to _Mynerva_]
+[17:32:42] [Server thread/INFO]: [_Kodin_: Gave 64 [Glass] to _Mynerva_]
+[17:33:41] [Server thread/INFO]: [_Kodin_: Gave 64 [Glass] to _Mynerva_]
+[17:35:34] [Server thread/INFO]: [_Kodin_: Gave 64 [Glass] to _Mynerva_]
+[17:40:13] [Server thread/INFO]: [_Kodin_: Gave 64 [Glass] to _Mynerva_]
+[17:43:03] [Server thread/INFO]: [_Kodin_: Gave 1 [Iron Pickaxe] to _Mynerva_]
+[17:49:11] [Server thread/INFO]: [_Kodin_: Applied effect Levitation to _Mynerva_]
+[17:49:22] [Server thread/INFO]: [_Kodin_: Removed effect Levitation from _Mynerva_]
+[17:49:40] [Server thread/INFO]: [_Kodin_: Applied effect Levitation to _Mynerva_]
+[17:50:02] [Server thread/INFO]: [_Kodin_: Applied effect Slow Falling to _Mynerva_]
+[17:50:05] [Server thread/INFO]: [_Kodin_: Removed effect Levitation from _Mynerva_]
+[17:50:22] [Server thread/INFO]: [_Kodin_: Applied effect Slow Falling to _Kodin_]
+[17:50:39] [Server thread/INFO]: [_Kodin_: Gave 64 [Glass] to _Mynerva_]
+[17:51:10] [Server thread/INFO]: [_Kodin_: Applied effect Instant Health to _Kodin_]
+[17:51:20] [Server thread/INFO]: [_Kodin_: Applied effect Instant Health to _Mynerva_]
+[17:51:22] [Server thread/INFO]: [_Kodin_: Applied effect Instant Health to _Mynerva_]
+[17:51:23] [Server thread/INFO]: [_Kodin_: Applied effect Instant Health to _Mynerva_]
+[17:51:27] [Server thread/INFO]: [_Kodin_: Applied effect Instant Health to _Kodin_]
+[18:01:01] [Server thread/INFO]: [_Kodin_: Gave 64 [Glass] to _Mynerva_]
+[18:03:37] [Server thread/INFO]: [_Kodin_: Gave 1 [Iron Pickaxe] to _Mynerva_]
+[18:05:03] [Server thread/INFO]: [_Kodin_: Gave 64 [Stone] to _Kodin_]
+[18:05:06] [Server thread/INFO]: [_Kodin_: Gave 64 [Glass] to _Mynerva_]
+[18:14:03] [Server thread/INFO]: [_Kodin_: Gave 64 [Dark Oak Fence] to _Kodin_]
+[18:15:35] [Server thread/INFO]: [_Kodin_: Gave 64 [Glass] to _Mynerva_]
+[18:17:13] [Server thread/INFO]: [_Kodin_: Gave 1 [Lava Bucket] to _Kodin_]
+[18:17:16] [Server thread/INFO]: [_Kodin_: Gave 64 [Glass] to _Mynerva_]
+[18:17:45] [Server thread/INFO]: [_Kodin_: Gave 63 [Stone] to _Kodin_]
+[18:19:07] [Server thread/INFO]: [_Kodin_: Gave 64 [Glass] to _Mynerva_]
+[18:19:08] [Server thread/INFO]: [_Kodin_: Gave 64 [Glass] to _Mynerva_]
+[18:19:09] [Server thread/INFO]: [_Kodin_: Gave 64 [Glass] to _Mynerva_]
+[18:19:09] [Server thread/INFO]: [_Kodin_: Gave 64 [Glass] to _Mynerva_]
+[18:19:10] [Server thread/INFO]: [_Kodin_: Gave 64 [Glass] to _Mynerva_]
+[18:19:11] [Server thread/INFO]: [_Kodin_: Gave 64 [Glass] to _Mynerva_]
+[18:19:12] [Server thread/INFO]: [_Kodin_: Gave 64 [Glass] to _Mynerva_]
+[18:22:45] [Server thread/INFO]: [_Kodin_: Gave 1 [Iron Pickaxe] to _Mynerva_]
+[18:22:47] [Server thread/INFO]: [_Kodin_: Gave 1 [Iron Pickaxe] to _Mynerva_]
+[18:23:03] [Server thread/INFO]: [_Kodin_: Gave 1 [Iron Trapdoor] to _Kodin_]
+[18:24:37] [Server thread/INFO]: [_Kodin_: Gave 1 [Iron Trapdoor] to _Kodin_]
+[18:24:39] [Server thread/INFO]: [_Kodin_: Gave 1 [Iron Trapdoor] to _Kodin_]
+[18:24:39] [Server thread/INFO]: [_Kodin_: Gave 1 [Iron Trapdoor] to _Kodin_]
+[18:26:47] [Server thread/INFO]: [_Kodin_: Gave 1 [Glass] to _Kodin_]
+[18:26:49] [Server thread/INFO]: [_Kodin_: Gave 1 [Glass] to _Kodin_]
+[18:26:54] [Server thread/INFO]: [_Kodin_: Gave 1 [Glass] to _Kodin_]
+[18:33:21] [Server thread/INFO]: [_Kodin_: Gave 1 [Iron Pickaxe] to _Kodin_]
+[18:35:16] [Server thread/INFO]: [_Kodin_: Gave 1 [Iron Pickaxe] to _Mynerva_]
+[18:35:19] [Server thread/INFO]: [_Kodin_: Gave 1 [Iron Pickaxe] to _Mynerva_]
+[18:35:48] [Server thread/INFO]: [_Kodin_: Applied effect Instant Health to _Kodin_]
+[18:35:50] [Server thread/INFO]: [_Kodin_: Applied effect Instant Health to _Kodin_]
+[18:36:03] [Server thread/INFO]: [_Kodin_: Applied effect Instant Health to _Mynerva_]
+[18:36:05] [Server thread/INFO]: [_Kodin_: Applied effect Instant Health to _Mynerva_]
+[18:36:05] [Server thread/INFO]: [_Kodin_: Applied effect Instant Health to _Mynerva_]
+[18:36:09] [Server thread/INFO]: [_Kodin_: Applied effect Instant Health to _Mynerva_]
+[18:45:14] [Server thread/INFO]: [_Kodin_: Gave 1 [Iron Pickaxe] to _Mynerva_]
+[18:47:35] [Server thread/INFO]: [_Kodin_: Applied effect Glowing to _Kodin_]
+[18:47:47] [Server thread/INFO]: [_Kodin_: Gave 1 [Glass] to _Kodin_]
+[18:47:54] [Server thread/INFO]: [_Kodin_: Gave 63 [Glass] to _Kodin_]
+[18:52:12] [Server thread/INFO]: [_Kodin_: Gave 1 [Iron Pickaxe] to _Kodin_]
+[18:55:38] [Server thread/INFO]: [_Kodin_: Gave 1 [Dark Oak Fence] to _Mynerva_]
+[18:55:42] [Server thread/INFO]: [_Kodin_: Gave 64 [Dark Oak Fence] to _Mynerva_]
+[18:56:14] [Server thread/INFO]: [_Kodin_: Gave 50 [Glass] to _Kodin_]
+[18:59:18] [Server thread/INFO]: [_Kodin_: Gave 60 [Stone Brick Slab] to _Kodin_]
+[18:59:33] [Server thread/INFO]: [_Kodin_: Gave 60 [Stone Slab] to _Kodin_]
+[19:04:50] [Server thread/INFO]: [_Kodin_: Saved the game]
+[19:10:37] [Server thread/INFO]: [_Kodin_: Gave 63 [Stone] to _Kodin_]
+[19:12:02] [Server thread/INFO]: _Mynerva_ lost connection: Disconnected
+[19:12:02] [Server thread/INFO]: _Mynerva_ left the game
+[19:13:07] [Server thread/INFO]: [_Kodin_: Saved the game]
+[19:13:26] [Server thread/INFO]: _Kodin_ lost connection: Disconnected
+[19:13:26] [Server thread/INFO]: _Kodin_ left the game
+[19:13:51] [Server thread/INFO]: Saving the game (this may take a moment!)
+[19:13:52] [Server thread/INFO]: Saved the game
+[19:13:59] [Server thread/INFO]: Saving is already turned on
+[19:14:06] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:14:06] [Server thread/INFO]: /exit<--[HERE]
+[19:14:09] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:14:09] [Server thread/INFO]: /quit<--[HERE]
