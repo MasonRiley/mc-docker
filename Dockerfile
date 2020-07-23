@@ -24,4 +24,6 @@ RUN cd server
 
 WORKDIR /minecraft/mc-docker/server
 
+EXPOSE 25565/tcp
+
 RUN screen -d -m java -Xms1G -Xmx1G -jar server.jar nogui
