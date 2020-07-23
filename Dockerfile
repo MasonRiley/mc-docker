@@ -8,6 +8,7 @@ RUN apt-get install -y default-jre-headless && \
     apt-get install -y screen && \
     apt-get install -y git
 
+EXPOSE 8080:25565/tcp
 
 RUN mkdir -p ~/minecraft && \
     cd ~/minecraft
@@ -24,6 +25,8 @@ RUN cd server
 
 WORKDIR /minecraft/mc-docker/server
 
-EXPOSE 25565/tcp
+RUN ls
 
 RUN screen -d -m java -Xms1G -Xmx1G -jar server.jar nogui
+
+#RUN java -Xms1G -Xmx1G -jar server.jar nogui
