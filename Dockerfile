@@ -12,8 +12,16 @@ RUN apt-get install -y default-jre-headless && \
 RUN mkdir -p ~/minecraft && \
     cd ~/minecraft
 
+WORKDIR /minecraft
+
 RUN git clone https://github.com/MasonRiley/mc-docker.git
 
 RUN cd mc-docker
+
+WORKDIR /minecraft/mc-docker
+
+RUN cd server
+
+WORKDIR /minecraft/mc-docker/server
 
 RUN screen -d -m java -Xms1G -Xmx1G -jar server.jar nogui
