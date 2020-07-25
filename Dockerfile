@@ -8,7 +8,7 @@ EXPOSE 25565/tcp
 
 RUN git clone https://github.com/MasonRiley/mc-docker.git
 
-WORKDIR /mc-docker/server
+WORKDIR /mc-docker/servers/kingdom-of-riley
 
 RUN touch run.sh
 
