@@ -1,0 +1,18 @@
+QUICK CAST
+/tp @e[dx=10,dy=10,dz=10] -53.332 70 -200.159
+/effect give _Kodin_ minecraft:instant_health
+/data merge entity @e[type=item,distance=..3,nbt={Item:{id:"minecraft:diamond_pickaxe"}},limit=1] {Item:{tag:{Damage:0}}}
+
+LOCATIONS
+Desert home: -53.332 70 -200.159
+Current pos: 111.569 23 -213.327
+Stopping point: 149.889 11 -173.965
+Obsidian cavern: 123.3 16 -181.795
+Mine:-669.765 73 -26.3
+Pit: -96.92, 73, -110.3
+Ravine: 75.932 67.85 -65.399
+
+COMMON MACROS
+teleport everyone around you: /tp @e[dx=10,dy=10,dz=10] x y z
+heal target: /effect give target minecraft:instant_health
+restore durability to 100: /data merge entity @e[type=item,distance=..3,nbt={Item:{id:"minecraft:ITEM_NAME"}},limit=1] {Item:{tag:{Damage:0}}}

@@ -10,10 +10,6 @@ RUN git clone https://github.com/MasonRiley/mc-docker.git
 
 WORKDIR /mc-docker/servers/kingdom-of-riley
 
-RUN touch run.sh
-
-RUN printf "#!/bin/bash\njava -Xms1G -Xmx1G -jar server.jar nogui" > /run.sh
-
 RUN chmod 755 /run.sh
 
 ENTRYPOINT ["/run.sh"]
